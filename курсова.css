@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(247, 175, 199);
+}
+
+img{
+    width: 700px;
+    height: 700px;
+    
+}
+a{
+    
+border: 5px double rgb(236, 82, 241);
+
+}
+
+ul{
+    margin-top: 110px;
+}
+
+li{
+    margin-top: 15px;
+    list-style-type: none;
+    display: inline-block;
+    
+}
+
+.qq{
+    text-align: center;
+}
+
+@media screen (max-width:500px){
+    nav{
+
+    }
+}

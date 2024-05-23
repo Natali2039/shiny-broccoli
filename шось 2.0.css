@@ -1,0 +1,25 @@
+.qqq{
+    width: 500px;
+    height: 500px;
+}
+
+body{
+    background-color: rgb(123, 164, 199);
+}
+
+a{
+    
+    border: 5px double rgb(236, 82, 241);
+    
+    }
+    
+    ul{
+        margin-top: 110px;
+    }
+    
+    li{
+        margin-top: 15px;
+        list-style-type: none;
+        display: inline-block;
+        
+    }-
